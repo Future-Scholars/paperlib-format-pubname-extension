@@ -1,8 +1,9 @@
 {
   "name": "@future-scholars/paperlib-format-pubname-extension",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Paperlib",
   "description": "This extension helps you automatically format the publication name. For example: 2017 ABC Conference -> ABC Conference.",
+  "homepage": "https://github.com/Future-Scholars/paperlib-format-pubname-extension",
   "main": "dist/main.js",
   "type": "commonjs",
   "manifest_version": "1.0.0",

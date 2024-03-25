@@ -190,7 +190,7 @@ class PaperlibFormatPubnameExtension extends PLExtension {
 
     // Update in chunk of 10
     for (let i = 0; i < modifiedPapers.length; i += 10) {
-      await PLAPI.paperService.update(modifiedPapers.slice(i, i + 10), false);
+      await PLAPI.paperService.update(modifiedPapers.slice(i, i + 10), false, true);
     }
   }
 }

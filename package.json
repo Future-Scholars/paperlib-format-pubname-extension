@@ -1,6 +1,6 @@
 {
   "name": "@future-scholars/paperlib-format-pubname-extension",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Paperlib",
   "description": "This extension helps you automatically format the publication name. For example: 2017 ABC Conference -> ABC Conference.",
   "homepage": "https://github.com/Future-Scholars/paperlib-format-pubname-extension",
@@ -17,7 +17,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
     "@types/node": "16.18.1",
-    "paperlib-api": "^0.1.2",
+    "paperlib-api": "^0.1.5",
     "prettier": "^3.1.1",
     "prettier-plugin-organize-imports": "^3.2.4",
     "rollup-plugin-modify": "^3.0.0",

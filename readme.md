@@ -89,7 +89,7 @@ Use `\format_pubnames` command to format publication names for all existing pape
 ### Project Structure
 
 ```
-paperlib-formatX-pubname-extension/
+paperlib-format-pubname-extension/
 ├── src/
 │   └── main.ts          # Main extension code
 ├── dist/                # Built extension (generated)

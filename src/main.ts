@@ -82,7 +82,7 @@ class PaperlibFormatPubnameExtension extends PLExtension {
 
   constructor() {
     super({
-      id: "@future-scholars/paperlib-formatx-pubname-extension",
+      id: "@future-scholars/paperlib-format-pubname-extension",
       defaultPreference: {
         removeYear: {
           type: "boolean",
